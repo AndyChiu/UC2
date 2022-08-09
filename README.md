@@ -15,7 +15,9 @@ PCB using FDM 3D printer and hand wiring, Non-factory PCB, Layout design using [
 * 3D files : [STLs](https://github.com/AndyChiu/UC2/tree/main/STLs)
 * Build guied: [Chinese](https://ie321mx.blogspot.com/2021/09/choc-v2.html)
 * Layout & key matrix PDF files : [PDF](https://github.com/AndyChiu/UC2/tree/main/PDF)
-* QMK Firmware : [UC2](https://github.com/AndyChiu/qmk_firmware/tree/uc2_kb/keyboards/handwired/uc2)
+* QMK Firmware : [UC2](https://github.com/AndyChiu/qmk_firmware/tree/uc2_kb/keyboards/handwired/uc2) 
+
+Recommend use [REMAP](https://remap-keys.app) to config VIA key setting, and they support flash firmware on web, just open [UC2 firmware](https://remap-keys.app/catalog/bwCYjD27IZM8dbOddvCt/firmware) to Flash!
 
 ![Left Hand](https://i.imgur.com/FnKEIS4.jpeg)
 ![Right Hand](https://i.imgur.com/pPTj6vC.jpeg)
