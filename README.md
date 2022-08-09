@@ -11,10 +11,10 @@ Thank you so much Mr. Hanachi!
 
 PCB using FDM 3D printer and hand wiring, Non-factory PCB, Layout design using [Keyboard-layout-editor.com (KLE)](http://www.keyboard-layout-editor.com/) web application, 3D file(.STL) build using [hotswap_pcb_generator](https://github.com/AndyChiu/hotswap_pcb_generator) OpenSCAD script.
 
-* OpenSCAD files : [SCAD](https://github.com/AndyChiu/UC2/SCAD)
+* OpenSCAD files : [SCAD](https://github.com/AndyChiu/UC2/tree/main/SCAD)
 * 3D files : [STLs](https://github.com/AndyChiu/UC2/tree/main/STLs)
 * Build guied: [Chinese](https://ie321mx.blogspot.com/2021/09/choc-v2.html)
-* Layout PDF files : [PDF](https://github.com/AndyChiu/UC2/PDF)
+* Layout & key matrix PDF files : [PDF](https://github.com/AndyChiu/UC2/tree/main/PDF)
 * QMK Firmware : [UC2](https://github.com/AndyChiu/qmk_firmware/tree/uc2_kb/keyboards/handwired/uc2)
 
 ![Left Hand](https://i.imgur.com/FnKEIS4.jpeg)
