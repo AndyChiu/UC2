@@ -15,7 +15,7 @@ PCB using FDM 3D printer and hand wiring, Non-factory PCB, Layout design using [
 * 3D files : [STLs](https://github.com/AndyChiu/UC2/tree/main/STLs)
 * Build guied: [Chinese](https://ie321mx.blogspot.com/2021/09/choc-v2.html)
 * Layout PDF files : [PDF](https://github.com/AndyChiu/UC2/PDF)
-* QMK Firmware : [UC2](https://github.com/AndyChiu/qmk_firmware/keyboards/handwired/uc2)
+* QMK Firmware : [UC2](https://github.com/AndyChiu/qmk_firmware/tree/uc2_kb/keyboards/handwired/uc2)
 
 ![Left Hand](https://i.imgur.com/FnKEIS4.jpeg)
 ![Right Hand](https://i.imgur.com/pPTj6vC.jpeg)
