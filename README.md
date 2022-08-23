@@ -4,7 +4,9 @@
 
 The Universal-Century 2 (UC2) is a 86-key split keyboard, TKL size with 3-key thumb cluster and encoders. 
 
-The Layout base on [Willow Layout](https://github.com/hanachi-ap/willow64-doc#willow-layout), CC BY-SA 4.0 by Hanachi.
+This "UC2 Layout", is a derivative of "Willow Layout (v 1.0)" by [Hanachi-ap](https://github.com/hanachi-ap), used under CC BY-SA 4.0.
+
+"UC2 Layout" is licensed under CC BY-SA 4.0 by [AndyChiu](https://github.com/AndyChiu).
 
 Thank you so much Mr. Hanachi!
 
